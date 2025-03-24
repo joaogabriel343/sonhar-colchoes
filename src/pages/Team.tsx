@@ -34,13 +34,6 @@ const teamData = [
     position: "Consultora de Venda",
     bio: "Uma ótima vendedora da sonhar colchões e estofados, trabalhando na parte da tarde no shopping Via Café Garden!",
     image: "https://i.postimg.cc/C10rQqQF/vanessa-removebg-preview.png"
-  },
-  {
-    id: 5,
-    name: "Natália",
-    position: "Consultora de Venda",
-    bio: "Uma excelente funcionaária da Sonhar colchões e estofados, trabalhando na parte da manhã no shopping Via Café Garden! ",
-    image: "#"
   }
 ];
 
