@@ -44,21 +44,21 @@ const Header: React.FC = () => {
       }`}
     >
       <div className="container mx-auto px-4 md:px-6 flex items-center justify-between">
-        <NavLink 
-          to="/" 
-          className="flex items-center"
-        >
-          <span className={`text-2xl font-bold transition-colors duration-300 ${
-            isScrolled ? 'text-sonhar-red-700' : 'text-white text-shadow'
-          }`}>
-            Sonhar
-          </span>
-          <span className={`ml-2 text-lg font-medium transition-colors duration-300 ${
-            isScrolled ? 'text-sonhar-black-700' : 'text-white/90 text-shadow'
-          }`}>
-            Colchões & Estofados
-          </span>
-        </NavLink>
+      <NavLink 
+        to="/" 
+        className="flex items-center"
+      >
+        <span className={`text-4xl font-extrabold uppercase transition-colors duration-300 ${
+          isScrolled ? 'text-sonhar-red-700' : 'text-white text-shadow-lg'
+        }`}>
+          Sonhar
+        </span>
+        <span className={`ml-3 text-2xl font-bold uppercase transition-colors duration-300 ${
+          isScrolled ? 'text-sonhar-black-700' : 'text-white/90 text-shadow-md'
+        }`}>
+          Colchões & Estofados
+        </span>
+      </NavLink>
 
         {/* Desktop Navigation */}
         <nav className="hidden md:block">
