@@ -154,7 +154,7 @@ export const products: Product[] = [
   },
   {
     id: 6,
-    name: "Estofados Pares",
+    name: "Estofados Paris",
     category: "Estofado",
     image: "https://i.postimg.cc/qBxkN8n0/foto-horizontal2.jpg",
     images: [
@@ -164,7 +164,7 @@ export const products: Product[] = [
       "https://i.postimg.cc/3xVhs9Mj/foto-horizontal.jpg",
       "https://i.postimg.cc/4dbThgYw/foto-tras.jpg"
     ],
-    description: "O Estofados Pares é um sofá modular com 03 módulos, projetado para unir conforto e sofisticação. Ele é revestido em um tecido bege claro, de textura suave e acolhedora, que combina facilmente com diferentes estilos de decoração. Os encostos e assentos possuem estofamento generoso com detalhes de capitonê, realçando a estética moderna do móvel. Um dos módulos inclui uma chaise lounge, que proporciona maior funcionalidade, permitindo relaxar ou receber convidados com conforto. A estrutura modular facilita a organização e personalização do ambiente, sendo ideal para salas amplas e elegantes. Este sofá é a escolha perfeita para quem busca estilo e conforto em um só produto.",
+    description: "O Estofados Paris é um sofá modular com 03 módulos, projetado para unir conforto e sofisticação. Ele é revestido em um tecido bege claro, de textura suave e acolhedora, que combina facilmente com diferentes estilos de decoração. Os encostos e assentos possuem estofamento generoso com detalhes de capitonê, realçando a estética moderna do móvel. Um dos módulos inclui uma chaise lounge, que proporciona maior funcionalidade, permitindo relaxar ou receber convidados com conforto. A estrutura modular facilita a organização e personalização do ambiente, sendo ideal para salas amplas e elegantes. Este sofá é a escolha perfeita para quem busca estilo e conforto em um só produto.",
     fullDescription: "Sofá modular Estofados Pares, composto por 03 módulos, com acabamento elegante em tecido bege claro e design confortável. Possui um módulo com chaise lounge para maior versatilidade.",
     features: [
       "Sistema de abertura retrátil",
@@ -312,7 +312,7 @@ export const products: Product[] = [
   },
   {
     id: 11,
-    name: "Puff Moria",
+    name: "Puff Moriá",
     category: "Puff",
     image: "https://i.postimg.cc/vZH7JL7m/foto-lado.jpg",
     images: [
@@ -322,8 +322,8 @@ export const products: Product[] = [
       "https://i.postimg.cc/Dz4GhCS7/foto-lado-2.jpg",
       "https://i.postimg.cc/8PCjDyYx/foto-atras.jpg"
     ],
-    description: "O Puff Moria é uma peça de mobiliário com design moderno e elegante, ideal para complementar qualquer ambiente. Ele possui revestimento em tecido bege claro de textura macia, que traz uma sensação de aconchego e combina facilmente com diversos estilos de decoração. A estrutura é acolchoada, proporcionando conforto tanto para uso funcional quanto como elemento decorativo. Seus pés, feitos de madeira em tom natural, destacam o visual e garantem estabilidade. Compacto e versátil, o Puff Moria é perfeito para salas de estar, quartos ou até mesmo escritórios, agregando charme e funcionalidade ao espaço.",
-    fullDescription: "Puff Moria com design contemporâneo, revestido em tecido bege claro, estrutura confortável e pés de madeira, perfeito para decorar e relaxar.",
+    description: "O Puff Moriá é uma peça de mobiliário com design moderno e elegante, ideal para complementar qualquer ambiente. Ele possui revestimento em tecido bege claro de textura macia, que traz uma sensação de aconchego e combina facilmente com diversos estilos de decoração. A estrutura é acolchoada, proporcionando conforto tanto para uso funcional quanto como elemento decorativo. Seus pés, feitos de madeira em tom natural, destacam o visual e garantem estabilidade. Compacto e versátil, o Puff Moriá é perfeito para salas de estar, quartos ou até mesmo escritórios, agregando charme e funcionalidade ao espaço.",
+    fullDescription: "Puff Moriá com design contemporâneo, revestido em tecido bege claro, estrutura confortável e pés de madeira, perfeito para decorar e relaxar.",
     features: [
       "Sistema de abertura retrátil",
       "Encosto reclinável",
@@ -380,7 +380,7 @@ export const products: Product[] = [
   },
   {
     id: 13,
-    name: "Puff Tlior Bunango",
+    name: "Puff Thor Durango",
     category: "Puff",
     image: "https://i.postimg.cc/dV5MFBzN/foto-lado.jpg",
     images: [
@@ -392,7 +392,7 @@ export const products: Product[] = [
       "https://i.postimg.cc/Hs55Fv7H/foto-pe.jpg"
     ],
     description: "O Sofá Retrátil Confort é perfeito para quem busca elegância e conforto em um só produto...",
-    fullDescription: "Puff Tlior Bunango com design elegante, revestido em tecido bege escuro, estrutura compacta e pés de madeira escura, ideal para decoração funcional.",
+    fullDescription: "Thor Durango com design elegante, revestido em tecido bege escuro, estrutura compacta e pés de madeira escura, ideal para decoração funcional.",
     features: [
       "Sistema de abertura retrátil",
       "Encosto reclinável",
@@ -403,7 +403,7 @@ export const products: Product[] = [
       dimensions: "",
       weight: "75kg",
       maxWeight: "Suporta até 300kg",
-      materials: "Puff Tlior Bunango com design elegante, revestido em tecido bege escuro, estrutura compacta.",
+      materials: "Thor Durango com design elegante, revestido em tecido bege escuro, estrutura compacta.",
       warranty: "2 anos contra defeitos de fabricação"
     },
     customization: [
@@ -413,7 +413,7 @@ export const products: Product[] = [
   },
   {
     id: 14,
-    name: "Super Fofão Duplo Malep",
+    name: "Super Fofão Duplo Molejo",
     category: "Estofado",
     image: "https://i.postimg.cc/mgnsMj8z/foto-frente.jpg",
     images: [
