@@ -72,10 +72,10 @@ const History = () => {
             
             <div className="mt-8 text-sonhar-black-700 animate-fade-in" style={{ animationDelay: '300ms' }}>
               <p className="mb-4">
-                Fundada em 2005 pelo empreendedor Carlos Silva, a Sonhar nasceu de uma visão clara: proporcionar às pessoas o melhor descanso possível, com produtos que aliam qualidade, conforto e preço justo.
+              Wilson e Andrea fundaram a Sonhar Colchões e Estofados com o propósito de oferecer conforto e qualidade aos lares. Desde a inauguração da primeira loja em Minas Gerais, o casal se dedicou a proporcionar um atendimento diferenciado e produtos de excelência. Com trabalho e visão estratégica, a marca se expandiu para outras cidades, consolidando-se no mercado de colchões e estofados.o setor de colchões e estofados. O compromisso com a qualidade e a satisfação dos clientes rapidamente impulsionou a expansão da marca para outras cidades do estado.
               </p>
               <p>
-                Ao longo dos anos, enfrentamos desafios, celebramos conquistas e, acima de tudo, mantivemos nosso compromisso com a excelência e a satisfação dos nossos clientes. Esta é a história de como um pequeno negócio se transformou em uma marca reconhecida e respeitada.
+                Ao longo dos anos, a empresa diversificou seu catálogo, firmou parcerias estratégicas e inaugurou uma unidade em shopping, ampliando sua presença. Além do crescimento comercial, Wilson e Andrea investiram em projetos sociais, reforçando seu compromisso com a comunidade. Hoje, com duas lojas e uma fábrica própria, a Sonhar Colchões continua evoluindo, mantendo sua missão de transformar sonhos em conforto.
               </p>
             </div>
           </div>
