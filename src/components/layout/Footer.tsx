@@ -87,8 +87,7 @@ const Footer: React.FC = () => {
 
         <div className="border-t border-gray-700 mt-12 pt-8 text-center">
           <p className="text-gray-400 text-sm">
-          © {new Date().getFullYear()} Sonhar Colchões e Estofados. Todos os direitos reservados. <C> CalmDev.
-          </p>
+          © {new Date().getFullYear()} Sonhar Colchões e Estofados. Todos os direitos reservados.</p>
         </div>
       </div>
     </footer>
