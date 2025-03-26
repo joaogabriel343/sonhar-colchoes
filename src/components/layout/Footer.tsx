@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { Phone, Mail, MapPin, Clock, Facebook, Instagram } from 'lucide-react';
@@ -87,7 +86,9 @@ const Footer: React.FC = () => {
 
         <div className="border-t border-gray-700 mt-12 pt-8 text-center">
           <p className="text-gray-400 text-sm">
-          © {new Date().getFullYear()} Sonhar Colchões e Estofados. Todos os direitos reservados.</p>
+            © {new Date().getFullYear()} Sonhar Colchões e Estofados. Todos os direitos reservados. <br />
+            <span className="text-gray-500 text-xs">&lt;C&gt; Calmdev</span>
+          </p>
         </div>
       </div>
     </footer>
