@@ -22,30 +22,27 @@ export interface Product {
 export const products: Product[] = [
   {
     id: 1,
-    name: "Poltrona Nina",
-    category: "Poltrona",
-    image: "https://i.postimg.cc/NF98fj9K/foto-frente.jpg",
+    name: "Super Fofão",
+    category: "Estofado",
+    image: "https://i.postimg.cc/g2HvTBgm/foto-frente-2.jpg",
     images: [
-      "https://i.postimg.cc/NF98fj9K/foto-frente.jpg",
-      "https://i.postimg.cc/52M5b1xt/foto-cima.jpg",
-      "https://i.postimg.cc/VNfj0R0Q/foto-lado.jpg",
-      "https://i.postimg.cc/rsrW2Z3W/foto-45.jpg",
+      "https://i.postimg.cc/g2HvTBgm/foto-frente-2.jpg",
+      "https://i.postimg.cc/kXcG33P1/foto-lado.jpg",
+      "https://i.postimg.cc/g2HvTBgm/foto-frente-2.jpg"
     ],
-    description: "A Poltrona Nina oferece o equilíbrio perfeito entre elegância e funcionalidade. Produzida em couríssimo, um material que simula o couro e apresenta ótima durabilidade, esta poltrona é uma escolha versátil e sofisticada. Seu design foi pensado para harmonizar com diversos estilos de decoração, garantindo conforto e beleza em qualquer espaço. Seja para a sala de estar, escritório ou quarto, a Poltrona Nina transforma o ambiente com seu toque de classe.",
-    fullDescription: "A Poltrona Nina é uma peça charmosa e confortável, feita com couríssimo de alta qualidade, ideal para qualquer ambiente.",
+    description: "O Super Fofão da foto é um sofá cinza com um design moderno e acolchoado, oferecendo um alto nível de conforto. O sofá tem assentos e encostos bem acolchoados, com costuras que formam quadrados, adicionando um toque de elegância. Ele também possui almofadas adicionais para suporte lombar. O tecido parece ser macio e agradável ao toque, tornando-o uma excelente escolha para salas de estar que buscam combinar estilo e conforto. Ao fundo, há outros móveis e uma propaganda da Orthocrin, indicando que o sofá pode ser parte de uma loja de móveis.",
+    fullDescription: "O Super Fofão da foto é um sofá cinza com assentos e encostos acolchoados, proporcionando conforto e estilo. Ele possui um design moderno e é ideal para salas de estar.",
     features: [
-      "Tecnologia de molas ensacadas individualmente",
-      "Espuma de alta densidade",
-      "Tecido antiácaro e antialérgico",
-      "7 zonas de conforto para melhor distribuição de peso",
-      "Borda reforçada para maior durabilidade"
+      "Cor cinza moderna",
+      "Estofado super macio",
+      "Almofadas extras confortáveis"
     ],
     specifications: {
-      dimensions: "",
-      weight: "45kg",
-      maxWeight: "Suporta até 200kg",
-      materials: "Espuma de alta densidade, molas ensacadas, tecido premium antimicrobiano",
-      warranty: "1 ano contra defeitos de fabricação"
+      dimensions: "2,50m",
+      weight: "",
+      maxWeight: "",
+      materials: "Alta densidade, molas ensacadas, estofado premium",
+      warranty: ""
     },
     customization: [
       "Disponível em tamanhos: Solteiro, Casal, Queen e King",
@@ -475,8 +472,74 @@ export const products: Product[] = [
     customization: [
       "Disponível em Rosa e Bege.",
       
+    ],
+    id: 1,
+    name: "Poltrona Nina",
+    category: "Poltrona",
+    image: "https://i.postimg.cc/NF98fj9K/foto-frente.jpg",
+    images: [
+      "https://i.postimg.cc/NF98fj9K/foto-frente.jpg",
+      "https://i.postimg.cc/52M5b1xt/foto-cima.jpg",
+      "https://i.postimg.cc/VNfj0R0Q/foto-lado.jpg",
+      "https://i.postimg.cc/rsrW2Z3W/foto-45.jpg",
+    ],
+    description: "A Poltrona Nina oferece o equilíbrio perfeito entre elegância e funcionalidade. Produzida em couríssimo, um material que simula o couro e apresenta ótima durabilidade, esta poltrona é uma escolha versátil e sofisticada. Seu design foi pensado para harmonizar com diversos estilos de decoração, garantindo conforto e beleza em qualquer espaço. Seja para a sala de estar, escritório ou quarto, a Poltrona Nina transforma o ambiente com seu toque de classe.",
+    fullDescription: "A Poltrona Nina é uma peça charmosa e confortável, feita com couríssimo de alta qualidade, ideal para qualquer ambiente.",
+    features: [
+      "Tecnologia de molas ensacadas individualmente",
+      "Espuma de alta densidade",
+      "Tecido antiácaro e antialérgico",
+      "7 zonas de conforto para melhor distribuição de peso",
+      "Borda reforçada para maior durabilidade"
+    ],
+    specifications: {
+      dimensions: "",
+      weight: "45kg",
+      maxWeight: "Suporta até 200kg",
+      materials: "Espuma de alta densidade, molas ensacadas, tecido premium antimicrobiano",
+      warranty: "1 ano contra defeitos de fabricação"
+    },
+    customization: [
+      "Disponível em tamanhos: Solteiro, Casal, Queen e King",
+      "Opção de pillow top destacável",
+      "Opção de tecido premium impermeável"
+    ],
+  id: 2,
+    name: "Colchão Pró Hard / Box / Recamier",
+    category: "Colchão",
+    image: "https://i.postimg.cc/mZJSFHGX/foto-frente.jpg",
+    images: [
+      "https://i.postimg.cc/mZJSFHGX/foto-frente.jpg",
+      "https://i.postimg.cc/KvTD78GZ/foto-lado.jpg",
+      "https://i.postimg.cc/KYG7y7nz/foto-ladoe.jpg",
+      "https://i.postimg.cc/ZYB8Z5yr/foto-45-d.jpg",
+      "https://i.postimg.cc/FHZcGf2Q/foto-45-e.jpg"
+    ],
+    description: "O conjunto é perfeito para transformar qualquer quarto em um ambiente sofisticado e aconchegante. A Cabeceira Delare, com suas dimensões de 158x198, exibe um design acolchoado e elegante, agregando charme e conforto à cama. O Colchão Pró Hard, também no tamanho 158x198, oferece firmeza e durabilidade, ideal para noites de sono reparador. Complementando a estrutura, o Box de 158x198 proporciona estabilidade e suporte ao colchão. Em frente à cama, o Recamier Reneia de tamanho 158 é uma peça funcional e estilosa, estofada em tecido refinado, perfeita para completar a decoração. Este conjunto reúne beleza, funcionalidade e qualidade para renovar o espaço de descanso com muito estilo.",
+    fullDescription: "",
+    features: [
+      "Sistema retrátil e reclinável",
+      "Assento com tecnologia de molas ensacadas",
+      "Braços largos e confortáveis",
+      "Tecido suede premium resistente a manchas",
+      "Base em madeira maciça"
+    ],
+    specifications: {
+      dimensions: "158cm x 198cm ",
+      weight: "85kg",
+      maxWeight: "Suporta até 450kg",
+      materials: "Estrutura de madeira maciça, espuma de alta densidade, molas ensacadas, tecido suede",
+      warranty: "5 anos contra defeitos de fabricação"
+    },
+    customization: [
+      "Cabeçeira Delare. Tamanho: 158X198.",
+      "Colchão Pró Hard. Tamanho: 158X198.",
+      "Box. Tamanho: 158X198.",
+      "Recamier Reneia. Tamanho: 158."
     ]
   }
+  
+  
 ];
 
 export interface TeamMember {
