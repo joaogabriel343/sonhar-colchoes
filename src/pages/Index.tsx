@@ -66,7 +66,7 @@ const Index = () => {
             <h1 className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-bold text-white leading-tight mb-4">
                <span className="block">Promoção no Mês</span>
               <span className="bg-clip-text text-transparent bg-gradient-to-r from-sonhar-red-300 to-sonhar-red-600">
-                do dia das mães
+                das mães
               </span>
             </h1>
             <p className="text-lg md:text-xl text-white/80 mb-8 max-w-md">
