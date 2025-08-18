@@ -51,7 +51,7 @@ const Index = () => {
         <div 
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{
-            backgroundImage: 'url("https://i.postimg.cc/TY3DZmcz/11-de-maio.png")',
+            backgroundImage: 'url("https://i.postimg.cc/WbwJwhjT/sonhar-colchoes.jpg")',
             transform: `translateY(${activeSection * -5}%)`,
             transition: 'transform 0.8s cubic-bezier(0.17, 0.67, 0.83, 0.67)'
           }}
